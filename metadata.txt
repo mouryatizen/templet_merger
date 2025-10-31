@@ -1,0 +1,8 @@
+[general]
+name=Templet Merger
+description=Processes and merges selected layer with TEMPLATE_NEW
+version=1.0
+qgisMinimumVersion=3.0
+author=Ira
+email=your_email@example.com
+about=Updates Name column, validates, and merges with TEMPLATE_NEW layer.
